@@ -24,7 +24,7 @@
 
 [HTML ETIQUETAS]
 
-1. Encabezados
+1. Encabezados : etiqueta de título que va dentro de una página web para resaltar la temática y subtemáticas del contenido
 2. Parrafos : creación de contenido en una página web
 3. Enlaces  : es hipervínculos
 
